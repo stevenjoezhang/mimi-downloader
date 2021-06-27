@@ -20,11 +20,11 @@
   },
   "homepage": "https://github.com/stevenjoezhang/bilibili-downloader",
   "dependencies": {
-    "bootstrap": "^5.0.0",
-    "filenamify": "^4.3.0",
-    "jquery": "^3.5.1",
-    "mime": "^2.5.0",
-    "progress-stream": "^2.0.0"
+    "bootstrap": "5.0.2",
+    "filenamify": "4.3.0",
+    "jquery": "3.6.0",
+    "mime": "2.5.2",
+    "progress-stream": "2.0.0"
   },
   "devDependencies": {
     "electron": "13.0.1"
